@@ -38,4 +38,4 @@ Operação de transporte de combustível sem visibilidade de SLA, ocorrências e
 
 ### Contato
 
-amedradopaiva@gmail.com · Rio de Janeiro, Brasil
+[LinkedIn](https://www.linkedin.com/in/andr%C3%A9-medrado/) · amedradopaiva@gmail.com · Rio de Janeiro, Brasil
