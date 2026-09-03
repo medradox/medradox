@@ -9,7 +9,7 @@ Engenheiro de Produção (CREA-RJ). Trabalho na fronteira entre operação e dad
 | Resultado | Como |
 | --- | --- |
 | **-87% no tempo de espera de descarga** (15 → 2 dias) | Automação da priorização de pátio com Python + SQL |
-| **~1.600 veículos** monitorados em torre de controle | Pipeline atualizando a cada 10 min; dashboards a cada 30 min |
+| **1.600 veículos** monitorados em torre de controle | Pipeline atualizando a cada 10 min; dashboards a cada 30 min |
 | **-15% no custo de transporte** | Redesenho de roteirização e análise de desempenho de transportadoras |
 | **6 dashboards em produção**, 20+ usuários | Modelo estrela com 10+ tabelas fato/dimensão, publicado e administrado no Power BI Service |
 
@@ -19,7 +19,6 @@ Engenheiro de Produção (CREA-RJ). Trabalho na fronteira entre operação e dad
 
 Operação de transporte de combustível sem visibilidade de SLA, ocorrências e tempo de trânsito. Construí o modelo estrela, ~140 medidas DAX e 8 páginas de análise, do resumo executivo ao detalhe por veículo.
 
-> Prefiro poucos casos bem documentados a muitos repositórios vazios. Mais projetos entram aqui conforme ficam prontos.
 
 ### Stack
 
