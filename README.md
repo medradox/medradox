@@ -1,98 +1,74 @@
-<picture>
-  <source media="(max-width: 600px)" srcset="./assets/profile-cover-mobile.svg" />
-  <img src="./assets/profile-cover.svg" width="100%" alt="André Medrado — Analista de Dados e BI. Power BI, SQL e Python. Da modelagem à decisão." />
-</picture>
+# André Medrado
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/andr%C3%A9-medrado/">LinkedIn</a> &nbsp; · &nbsp;
-  <a href="mailto:amedradopaiva@gmail.com">E-mail</a> &nbsp; · &nbsp;
-  <a href="https://github.com/medradox?tab=repositories">Repositórios</a>
-</p>
+**Analista de Dados & Business Intelligence**
 
-<img src="./assets/metal-slug-tank.svg" width="100%" alt="Cena em pixel art inspirada em Metal Slug: personagem de bandana vermelha atravessa a tela com um tanque" />
+Desenvolvo modelos de dados, dashboards e automações que apoiam decisões de negócio. Trabalho com **Power BI, SQL e Python**, da preparação dos dados à entrega de soluções analíticas em produção.
 
-### Sobre mim
+[LinkedIn](https://www.linkedin.com/in/andr%C3%A9-medrado/) · [E-mail](mailto:amedradopaiva@gmail.com) · [Repositórios](https://github.com/medradox?tab=repositories) · Rio de Janeiro, Brasil
 
-Sou **Analista de Dados & BI**, com formação em Engenharia de Produção e base no Rio de Janeiro. Desenvolvo modelos analíticos, dashboards e automações com **Power BI, SQL e Python** para apoiar decisões de negócio.
+## Projetos selecionados
 
-Atuo do entendimento da pergunta à entrega da solução: tratamento de dados, modelagem dimensional, medidas DAX e publicação no Power BI Service.
+### [Indicadores de desempenho — Power BI](./projects/indicadores-power-bi.md)
 
-### Entregas em produção
+Solução analítica com modelo estrela, aproximadamente **140 medidas DAX e 8 páginas de análise**. Visão executiva e navegação até o detalhe para acompanhar indicadores e investigar desvios de desempenho.
 
-| Resultado | Aplicação |
-| :--- | :--- |
-| **6 dashboards · 20+ usuários** | Soluções desenvolvidas e administradas no Power BI Service |
-| **140 medidas DAX · 8 páginas** | Modelo analítico com visão executiva e detalhamento de indicadores |
-| **87% menos espera** | Priorização com Python e SQL: redução de 15 para 2 dias |
+`Power BI` `DAX` `Power Query` `Modelagem dimensional`
 
-### Projetos e aplicações
+Estudo de caso profissional · [Ver projeto →](./projects/indicadores-power-bi.md)
 
-#### Indicadores de desempenho
+---
 
-`Power BI` · `DAX` · `Power Query`
+### [Priorização de processos — Python e SQL](./projects/priorizacao-python-sql.md)
 
-Modelo analítico com aproximadamente **140 medidas DAX e 8 páginas**, conectando uma visão executiva à investigação detalhada de indicadores. A solução organiza métricas de desempenho, ocorrências e tempos de processo para apoiar o acompanhamento do negócio.
+Automação de uma rotina de priorização que contribuiu para reduzir o tempo de espera de **15 para 2 dias — uma redução de 87%**. Aplicação de dados e regras de negócio a uma decisão operacional recorrente.
 
-<details>
-<summary>Ver abordagem técnica</summary>
+`Python` `SQL` `Automação` `Análise de dados`
 
-- Modelagem estrela e organização de tabelas fato e dimensão.
-- Transformação de dados com Power Query e regras de negócio em DAX.
-- Navegação do resumo executivo ao detalhe para investigar desvios.
-- Aplicação profissional em uma torre de controle; código não publicado.
+Estudo de caso profissional · [Ver projeto →](./projects/priorizacao-python-sql.md)
 
-**Tecnologias:** Power BI · DAX · Power Query · Modelagem dimensional.
+---
 
-</details>
+### [Calendário de contribuições — Python e GitHub Actions](https://github.com/medradox/medradox)
 
-#### Automação de decisões recorrentes
+Coleta de dados públicos do GitHub, validação do calendário e geração de um SVG atualizado diariamente. Scripts e workflow disponíveis no repositório deste perfil.
 
-`Python` · `SQL`
+`Python` `SVG` `GitHub Actions`
 
-Automatizei uma rotina de priorização que contribuiu para reduzir o tempo de espera de **15 para 2 dias**. O trabalho conectou tratamento de dados e regras de negócio a uma decisão recorrente da operação.
+Código público · [Ver implementação →](./scripts/build_profile.py)
+
+## Experiência e ferramentas
+
+**6 dashboards em produção, utilizados por mais de 20 usuários.** Experiência em modelagem dimensional, definição de indicadores, desenvolvimento de medidas DAX e administração de soluções no Power BI Service.
+
+- **BI e visualização:** Power BI, DAX, Power Query e Power BI Service.
+- **Dados e automação:** SQL Server, Python, Pandas, Excel Avançado e VBA.
+- **Modelagem:** modelo estrela, tabelas fato e dimensão.
+- **Em desenvolvimento:** Microsoft Fabric, Databricks e Engenharia de Dados.
 
 <details>
-<summary>Ver aplicação e resultado</summary>
+<summary><strong>Formação</strong></summary>
 
-- Uso de Python e SQL na automação da priorização de pátio.
-- Redução de 87% no tempo de espera de descarga.
-- Aplicação profissional; código não publicado.
-
-**Tecnologias:** Python · SQL.
-
-</details>
-
-### Ferramentas e conhecimentos
-
-| Área | Tecnologias e práticas |
-| :--- | :--- |
-| **Business Intelligence** | Power BI · DAX · Power Query · Power BI Service |
-| **Análise e automação** | Python · Pandas · SQL · Excel Avançado · VBA |
-| **Modelagem** | SQL Server · Modelo estrela · Tabelas fato e dimensão |
-| **Em desenvolvimento** | Microsoft Fabric · Databricks · Engenharia de Dados |
-
-### Formação
-
-- **MBA em Business Intelligence & Analytics 360** — Xperiun, 2026.
-- **Engenharia de Produção** — CREA-RJ.
-- **Lean Six Sigma Yellow Belt.**
-
-<details>
-<summary>Formação complementar</summary>
-
-MBA em Logística e Supply Chain — Faculdade Única, 2023.
+- MBA em Business Intelligence & Analytics 360 — Xperiun, 2026.
+- Engenharia de Produção — CREA-RJ.
+- Lean Six Sigma Yellow Belt.
+- MBA em Logística e Supply Chain — Faculdade Única, 2023.
 
 </details>
 
 <details>
-<summary>Atividade no GitHub</summary>
+<summary><strong>Atividade no GitHub</strong></summary>
 
-Calendário gerado diariamente com Python e GitHub Actions. [Ver implementação](https://github.com/medradox/medradox).
+<img src="./contrib-heatmap.svg" width="100%" alt="Calendário de contribuições em tema dark grafite e âmbar" />
 
-<img src="./contrib-heatmap.svg" width="100%" alt="Calendário anual de contribuições públicas, atualizado diariamente" />
+</details>
+
+<details>
+<summary><strong>Metal Slug · pixel art</strong></summary>
+
+<img src="./assets/metal-slug-tank.svg" width="100%" alt="Animação original inspirada em Metal Slug, com personagem e tanque em pixel art" />
 
 </details>
 
 ---
 
-**Vamos conversar sobre dados?** Entre em contato pelo [LinkedIn](https://www.linkedin.com/in/andr%C3%A9-medrado/) ou por [e-mail](mailto:amedradopaiva@gmail.com).
+**Vamos conversar sobre dados e BI?** [LinkedIn](https://www.linkedin.com/in/andr%C3%A9-medrado/) · [amedradopaiva@gmail.com](mailto:amedradopaiva@gmail.com)
