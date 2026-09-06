@@ -3,11 +3,12 @@
   <br><br>
   <table>
     <tr>
-      <td valign="top"><img src="./data/professional-portrait.png" width="320" alt="Retrato profissional de André Medrado" /></td>
-      <td valign="top"><img src="./info-card.svg" width="520" alt="Analista de Dados e BI: Power BI, SQL e Python aplicados à logística" /></td>
+      <td valign="top"><img src="./medrado-ascii.svg" width="370" alt="Retrato ASCII animado de André Medrado" /></td>
+      <td valign="top"><img src="./info-card.svg" width="490" alt="Analista de Dados e BI: Power BI, SQL e Python aplicados à logística" /></td>
     </tr>
   </table>
 </div>
+
 ## André Medrado
 
 **Analista de Dados & BI | Logística, Transporte e Supply Chain**
