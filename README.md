@@ -3,7 +3,7 @@
   <br><br>
   <table>
     <tr>
-      <td valign="top"><img src="./medrado-ascii.svg" width="320" alt="Retrato ASCII animado de André Medrado" /></td>
+      <td valign="top"><img src="./data/professional-portrait.png" width="320" alt="Retrato profissional de André Medrado" /></td>
       <td valign="top"><img src="./info-card.svg" width="520" alt="Analista de Dados e BI: Power BI, SQL e Python aplicados à logística" /></td>
     </tr>
   </table>
@@ -48,4 +48,3 @@ Operação de transporte de combustível sem visibilidade de SLA, ocorrências e
 ### Contato
 
 [LinkedIn](https://www.linkedin.com/in/andr%C3%A9-medrado/) · amedradopaiva@gmail.com · Rio de Janeiro, Brasil
-
