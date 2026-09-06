@@ -1,13 +1,10 @@
 # Manutenção do perfil
 
-Perfil focado em Análise de Dados e Business Intelligence, com SVGs dark em violeta e índigo.
+O README apresenta André Medrado como Analista de Dados & BI.
 
-- Edite README.md para atualizar apresentação, formação e projetos.
-- Banners em assets/header.svg, assets/typing.svg e assets/footer.svg foram gerados com Capsule Render e Typing SVG; endereços em data/widget-urls.json.
-- python scripts/build_profile.py atualiza o calendário público.
-- python scripts/build_analytics.py atualiza estatísticas e linguagens com dados públicos da API GitHub.
-- GitHub Actions executa esses scripts e Platane/snk diariamente, por volta de 06h17 de Brasília.
-- A foto pessoal não é exibida no README, conforme o novo briefing. A foto da conta é independente.
-- O fundo da interface do GitHub depende da preferência de aparência de cada visitante; os SVGs têm fundo dark próprio.
-- Experiência, resultados e formação vêm do README original; não foram inventados cargos, datas, certificações ou habilidades.
-- Widgets de estatísticas e atividade externos que retornaram erros foram substituídos por SVGs locais. O widget de streak permanece externo.
+- Banner próprio: assets/profile-cover.svg. Fundo dark, tipografia clara, acentos índigo. O gráfico é uma ilustração, não uma série de dados.
+- Conteúdo: README.md. Experiência e formação baseadas nas informações originais do perfil.
+- Único indicador exibido: calendário de contribuições dentro de uma seção expansível.
+- Atualização: python scripts/build_profile.py e GitHub Actions, diariamente.
+- A foto da conta e a aparência global do GitHub são configurações independentes do README.
+- Os arquivos das versões anteriores permanecem no repositório e no histórico, mas não são exibidos no README.
