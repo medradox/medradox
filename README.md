@@ -1,27 +1,35 @@
-<img src="./assets/profile-cover.svg" width="100%" alt="André Medrado — Analista de Dados e BI. Power BI, SQL e Python. Da modelagem à decisão." />
+<picture>
+  <source media="(max-width: 600px)" srcset="./assets/profile-cover-mobile.svg" />
+  <img src="./assets/profile-cover.svg" width="100%" alt="André Medrado — Analista de Dados e BI. Power BI, SQL e Python. Da modelagem à decisão." />
+</picture>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/andr%C3%A9-medrado/">LinkedIn</a> &nbsp; · &nbsp;
   <a href="mailto:amedradopaiva@gmail.com">E-mail</a> &nbsp; · &nbsp;
-  <a href="https://github.com/medradox?tab=repositories">Repositórios</a> &nbsp; · &nbsp;
-  Rio de Janeiro, Brasil
+  <a href="https://github.com/medradox?tab=repositories">Repositórios</a>
 </p>
 
-### Dados que ajudam a decidir
+<img src="./assets/metal-slug-tank.svg" width="100%" alt="Cena em pixel art inspirada em Metal Slug: personagem de bandana vermelha atravessa a tela com um tanque" />
 
-Sou **Analista de Dados & BI**, com formação em Engenharia de Produção. Desenvolvo modelos analíticos, dashboards e automações com **Power BI, SQL e Python**, conectando perguntas de negócio a indicadores que as equipes conseguem utilizar.
+### Sobre mim
 
-Minha experiência inclui modelagem dimensional, medidas DAX, tratamento de dados e publicação no Power BI Service — do entendimento da necessidade à manutenção da solução em produção.
+Sou **Analista de Dados & BI**, com formação em Engenharia de Produção e base no Rio de Janeiro. Desenvolvo modelos analíticos, dashboards e automações com **Power BI, SQL e Python** para apoiar decisões de negócio.
+
+Atuo do entendimento da pergunta à entrega da solução: tratamento de dados, modelagem dimensional, medidas DAX e publicação no Power BI Service.
 
 ### Entregas em produção
 
-| **6 dashboards** | **20+ usuários** | **87% menos espera** |
-| :--- | :--- | :--- |
-| Desenvolvidos e administrados no Power BI Service | Utilizando as soluções de BI no dia a dia | De 15 para 2 dias, com priorização automatizada em Python e SQL |
+| Resultado | Aplicação |
+| :--- | :--- |
+| **6 dashboards · 20+ usuários** | Soluções desenvolvidas e administradas no Power BI Service |
+| **140 medidas DAX · 8 páginas** | Modelo analítico com visão executiva e detalhamento de indicadores |
+| **87% menos espera** | Priorização com Python e SQL: redução de 15 para 2 dias |
 
 ### Projetos e aplicações
 
-**Business Intelligence · Indicadores de desempenho**
+#### Indicadores de desempenho
+
+`Power BI` · `DAX` · `Power Query`
 
 Modelo analítico com aproximadamente **140 medidas DAX e 8 páginas**, conectando uma visão executiva à investigação detalhada de indicadores. A solução organiza métricas de desempenho, ocorrências e tempos de processo para apoiar o acompanhamento do negócio.
 
@@ -37,9 +45,9 @@ Modelo analítico com aproximadamente **140 medidas DAX e 8 páginas**, conectan
 
 </details>
 
-<br>
+#### Automação de decisões recorrentes
 
-**Automação analítica · Priorização com Python e SQL**
+`Python` · `SQL`
 
 Automatizei uma rotina de priorização que contribuiu para reduzir o tempo de espera de **15 para 2 dias**. O trabalho conectou tratamento de dados e regras de negócio a uma decisão recorrente da operação.
 
@@ -76,12 +84,10 @@ MBA em Logística e Supply Chain — Faculdade Única, 2023.
 
 </details>
 
-### No GitHub
-
-Uso este espaço para desenvolver meu portfólio público de dados. O [repositório deste perfil](https://github.com/medradox/medradox) contém a coleta e a geração do calendário abaixo com Python e GitHub Actions.
-
 <details>
-<summary>Ver atividade de contribuições</summary>
+<summary>Atividade no GitHub</summary>
+
+Calendário gerado diariamente com Python e GitHub Actions. [Ver implementação](https://github.com/medradox/medradox).
 
 <img src="./contrib-heatmap.svg" width="100%" alt="Calendário anual de contribuições públicas, atualizado diariamente" />
 

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 292" width="420" height="292" role="img" aria-labelledby="title desc">
+<title id="title">André Medrado — Analista de Dados e BI</title>
+<desc id="desc">Da modelagem à decisão. Power BI, SQL e Python.</desc>
+<rect width="420" height="292" rx="14" fill="#101315"/>
+<rect x="1" y="1" width="418" height="290" rx="13" fill="none" stroke="#303638"/>
+<g font-family="Segoe UI,Arial,sans-serif">
+<text x="26" y="38" font-size="11" font-weight="600" letter-spacing="1.4" fill="#dfb766">ANÁLISE DE DADOS &amp; BI</text>
+<text x="24" y="94" font-size="40" font-weight="700" letter-spacing="-1.3" fill="#f0f2f1">André Medrado</text>
+<text x="26" y="133" font-size="21" fill="#b8c0bd">Da modelagem à decisão.</text>
+<path d="M26 159H394" stroke="#333b37"/>
+<text x="26" y="192" font-size="15" fill="#d5dcd8">Power BI</text><circle cx="104" cy="187" r="2" fill="#cda65b"/>
+<text x="122" y="192" font-size="15" fill="#d5dcd8">SQL</text><circle cx="166" cy="187" r="2" fill="#cda65b"/>
+<text x="184" y="192" font-size="15" fill="#d5dcd8">Python</text>
+<text x="26" y="228" font-size="13" fill="#a1ada6">Modelos analíticos · Dashboards</text>
+<text x="26" y="251" font-size="13" fill="#a1ada6">Automação orientada a negócio</text>
+</g></svg>

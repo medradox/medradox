@@ -1,23 +1,23 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 290" width="960" height="290" role="img" aria-labelledby="title desc">
 <title id="title">André Medrado — Analista de Dados e Business Intelligence</title>
 <desc id="desc">Power BI, SQL e Python. Da modelagem à decisão.</desc>
-<defs><linearGradient id="accent" x2="1" y2="1"><stop stop-color="#a5b4fc"/><stop offset="1" stop-color="#a78bfa"/></linearGradient></defs>
-<rect width="960" height="290" rx="16" fill="#10121c"/>
-<rect x="1" y="1" width="958" height="288" rx="15" fill="none" stroke="#282b40"/>
+<defs><linearGradient id="accent" x2="1" y2="1"><stop stop-color="#dfb766"/><stop offset="1" stop-color="#cda65b"/></linearGradient></defs>
+<rect width="960" height="290" rx="16" fill="#101315"/>
+<rect x="1" y="1" width="958" height="288" rx="15" fill="none" stroke="#303638"/>
 <g font-family="Segoe UI,Arial,sans-serif">
-<text x="44" y="48" font-size="12" font-weight="600" letter-spacing="2.5" fill="#a5b4fc">DATA ANALYTICS / BUSINESS INTELLIGENCE</text>
-<text x="41" y="112" font-size="48" font-weight="650" letter-spacing="-1.5" fill="#f2f3fa">André Medrado</text>
-<text x="44" y="154" font-size="23" fill="#bec3d7">Da modelagem à decisão.</text>
-<path d="M44 188H565" stroke="#303349"/>
-<text x="44" y="221" font-size="15" fill="#d8dcee">Power BI</text><circle cx="122" cy="216" r="2" fill="#a78bfa"/>
-<text x="140" y="221" font-size="15" fill="#d8dcee">SQL</text><circle cx="184" cy="216" r="2" fill="#a78bfa"/>
-<text x="202" y="221" font-size="15" fill="#d8dcee">Python</text>
-<text x="44" y="255" font-size="12" fill="#8e95af">Modelos analíticos · Dashboards · Automação</text>
+<text x="44" y="48" font-size="13" font-weight="600" letter-spacing="1.4" fill="#dfb766">ANÁLISE DE DADOS &amp; BUSINESS INTELLIGENCE</text>
+<text x="41" y="112" font-size="52" font-weight="700" letter-spacing="-1.5" fill="#f0f2f1">André Medrado</text>
+<text x="44" y="154" font-size="23" fill="#b8c0bd">Da modelagem à decisão.</text>
+<path d="M44 188H565" stroke="#333b37"/>
+<text x="44" y="221" font-size="15" fill="#d5dcd8">Power BI</text><circle cx="122" cy="216" r="2" fill="#cda65b"/>
+<text x="140" y="221" font-size="15" fill="#d5dcd8">SQL</text><circle cx="184" cy="216" r="2" fill="#cda65b"/>
+<text x="202" y="221" font-size="15" fill="#d5dcd8">Python</text>
+<text x="44" y="255" font-size="12" fill="#a1ada6">Modelos analíticos · Dashboards · Automação</text>
 </g>
-<g transform="translate(658 54)" fill="none" stroke="#363b58">
-<rect width="252" height="182" rx="12" fill="#161927"/>
+<g transform="translate(658 54)" fill="none" stroke="#37413b">
+<rect width="252" height="182" rx="12" fill="#191f1b"/>
 <path d="M20 44H232M20 80H232M20 116H232M20 152H232M68 24V164M120 24V164M172 24V164M224 24V164" opacity=".55"/>
 <path d="M24 139L64 121L104 129L145 81L184 89L224 39" stroke="url(#accent)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
-<g fill="#10121c" stroke="#b5b7fb" stroke-width="2"><circle cx="24" cy="139" r="4"/><circle cx="64" cy="121" r="4"/><circle cx="104" cy="129" r="4"/><circle cx="145" cy="81" r="4"/><circle cx="184" cy="89" r="4"/><circle cx="224" cy="39" r="4"/></g>
+<g fill="#101315" stroke="#e0bd76" stroke-width="2"><circle cx="24" cy="139" r="4"/><circle cx="64" cy="121" r="4"/><circle cx="104" cy="129" r="4"/><circle cx="145" cy="81" r="4"/><circle cx="184" cy="89" r="4"/><circle cx="224" cy="39" r="4"/></g>
 </g>
 </svg>
