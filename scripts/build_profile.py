@@ -45,8 +45,8 @@ def heatmap():
     total=sum(d['count'] for d in days)
     write('data/contributions.json',json.dumps({'username':'medradox','total':total,'days':days},indent=2)+'\n')
     start=dates[0]-timedelta(days=(dates[0].weekday()+1)%7)
-    palette=['#161b22','#0e4429','#006d32','#26a641','#39d353']
-    body=text(26,32,'medradox@github ~ $ ./contributions.sh',16,'#39d353')
+    palette=['#161b22','#312e81','#5b21b6','#8b5cf6','#c4b5fd']
+    body=text(26,32,'medradox@github ~ $ ./contributions.sh',16,'#a78bfa')
     for day,dt in zip(days,dates):
         offset=(dt-start).days; col,row=divmod(offset,7)
         body+=f'<rect class="reveal" style="animation-delay:{(col+row)*.018:.3f}s" x="{26+col*15}" y="{57+row*15}" width="11" height="11" rx="3" fill="{palette[day["level"]]}"><title>{dt}: {day["count"]} contribuições</title></rect>'
@@ -73,14 +73,14 @@ def identity():
     gray.save(ROOT/'data/source-prepped.png')
     gray=gray.resize((100,53),Image.Resampling.LANCZOS)
     ramp=" .`:-=+*cs#%@"
-    body=text(20,30,'medradox ~ $ whoami',13,'#39d353')
+    body=text(20,30,'medradox ~ $ whoami',13,'#a78bfa')
     for y in range(gray.height):
         row=''.join(ramp[round((255-gray.getpixel((x,y)))*(len(ramp)-1)/255)] for x in range(gray.width))
         body+=f'<g class="type-row" style="animation-delay:{y*.045:.3f}s"><text x="20" y="{53+y*5.4:.1f}" xml:space="preserve" font-size="5.5" textLength="330" lengthAdjust="spacingAndGlyphs" fill="#c9d1d9">{escape(row)}</text></g>'
-    body+=text(20,364,'ANDRÉ MEDRADO',16,'#39d353')
+    body+=text(20,364,'ANDRÉ MEDRADO',16,'#a78bfa')
     body+=text(20,385,'Rio de Janeiro, Brasil',11,'#8b949e')
     write('medrado-ascii.svg',svg(370,410,body,'Retrato ASCII animado de André Medrado, baseado na foto aprovada'))
-    rows=[('medradox@github','#39d353',21),('────────────────────────────────','#30363d',14),('Analista de Dados & BI','#ffffff',18),('Logística · Transporte · Supply Chain','#8b949e',13),('','#c9d1d9',14),('Stack   Power BI / DAX / SQL Server','#c9d1d9',14),('        Python / Pandas / Power Query','#c9d1d9',14),('Base    Engenharia de Produção','#c9d1d9',14),('Foco    Dados que orientam a operação','#c9d1d9',14),('','#c9d1d9',14),('-87%    Tempo de espera de descarga','#39d353',14),('1.600   Veículos monitorados','#39d353',14),('-15%    Custo de transporte','#39d353',14),('6       Dashboards em produção','#39d353',14)]
+    rows=[('medradox@github','#a78bfa',21),('────────────────────────────────','#30363d',14),('Analista de Dados & BI','#ffffff',18),('Logística · Transporte · Supply Chain','#8b949e',13),('','#c9d1d9',14),('Stack   Power BI / DAX / SQL Server','#c9d1d9',14),('        Python / Pandas / Power Query','#c9d1d9',14),('Base    Engenharia de Produção','#c9d1d9',14),('Foco    Dados que orientam a operação','#c9d1d9',14),('','#c9d1d9',14),('-87%    Tempo de espera de descarga','#a78bfa',14),('1.600   Veículos monitorados','#a78bfa',14),('-15%    Custo de transporte','#a78bfa',14),('6       Dashboards em produção','#a78bfa',14)]
     body=''
     for i,(value,color,size) in enumerate(rows):
         body+=f'<g class="reveal" style="animation-delay:{i*.12:.2f}s">{text(24,38+i*25,value,size,color)}</g>'
